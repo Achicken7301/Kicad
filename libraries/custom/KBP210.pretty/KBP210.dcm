@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KBP210
+D SILICON BRIDGE RECTIFIERS 4KBP
+K
+F https://static6.arrow.com/aropdfconversion/b3236e40f676b1f8075b54f9d0e3ffeded20389a/157kbp200_10.pdf
+$ENDCMP
+#
+#End Doc Library

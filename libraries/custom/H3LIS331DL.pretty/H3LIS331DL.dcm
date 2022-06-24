@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP H3LIS331DL
+D low-power high-g 3-axis digital accelerometer
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00053090.pdf
+$ENDCMP
+#
+#End Doc Library
