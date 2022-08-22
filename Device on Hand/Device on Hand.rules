@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 16)
+    (start_pass_no 17)
     (layer_rule "F.Cu"
       (active on)
       (preferred_direction vertical)
@@ -52,12 +52,12 @@
     "kicad_default" "Via[0-1]_800:400_um-kicad_default"
   )
   (class "default"
-    "Net-(C1-Pad1)" "Net-(C1-Pad2)" "GND" "Net-(C2-Pad2)" "Vout" "Net-(C3-Pad2)" "Net-(J1-Pad1)" "unconnected-(RV1-Pad3)"
+    "GND" "Net-(C1-Pad1)" "Net-(C1-Pad2)" "Net-(C2-Pad2)" "Vout" "Net-(C3-Pad2)" "Net-(J1-Pad1)" "unconnected-(RV1-Pad3)"
     "unconnected-(RV2-Pad3)" "SCL" "MOSI" "3.3v" "CS" "MISO" "unconnected-(U4-Pad4)" "unconnected-(U4-Pad5)"
     "unconnected-(U4-Pad6)" "unconnected-(U4-Pad7)" "unconnected-(U4-Pad8)" "unconnected-(U4-Pad11)" "unconnected-(U4-Pad12)" "unconnected-(U4-Pad13)" "unconnected-(U4-Pad14)" "unconnected-(U4-Pad29)"
     "unconnected-(U4-Pad28)" "unconnected-(U4-Pad27)" "unconnected-(U4-Pad26)" "unconnected-(U4-Pad25)" "unconnected-(U4-Pad24)" "unconnected-(U4-Pad23)" "unconnected-(U4-Pad22)" "unconnected-(U4-Pad21)"
-    "unconnected-(U4-Pad20)" "unconnected-(U4-Pad18)" "unconnected-(U4-Pad17)" "unconnected-(U4-Pad16)" "unconnected-(U3-Pad5)" "unconnected-(U3-Pad6)" "3.3Vin" "unconnected-(IC1-Pad1)"
-    "unconnected-(IC1-Pad6)" "unconnected-(IC1-Pad7)" "unconnected-(IC1-Pad8)"
+    "unconnected-(U4-Pad20)" "unconnected-(U4-Pad18)" "unconnected-(U4-Pad17)" "unconnected-(U4-Pad16)" "unconnected-(U3-Pad5)" "unconnected-(U3-Pad6)" "3.3Vin" "unconnected-(ICL7660-Pad1)"
+    "unconnected-(ICL7660-Pad6)" "unconnected-(ICL7660-Pad7)" "unconnected-(ICL7660-Pad8)"
     (clearance_class "default")
     (via_rule "default")
     (rule
