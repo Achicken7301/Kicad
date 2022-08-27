@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 2.0,
-          "width": 3.0
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -103,7 +103,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.7999999999999999,
+        "min_clearance": 0.0,
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -120,7 +120,6 @@
       },
       "track_widths": [
         0.0,
-        0.8,
         1.0
       ],
       "via_dimensions": [
@@ -348,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "test1.kicad_pro",
+    "filename": "test3dekit.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -427,7 +426,7 @@
   },
   "sheets": [
     [
-      "41b1b600-6547-4fd9-ac06-703a8243b2d9",
+      "1b9c1904-0b77-4838-b9fc-a16aba3e6414",
       ""
     ]
   ],

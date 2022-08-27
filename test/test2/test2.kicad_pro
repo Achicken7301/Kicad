@@ -103,7 +103,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.7999999999999999,
+        "min_clearance": 0.0,
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -120,7 +120,6 @@
       },
       "track_widths": [
         0.0,
-        0.8,
         1.0
       ],
       "via_dimensions": [
@@ -348,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "test1.kicad_pro",
+    "filename": "test2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -427,7 +426,7 @@
   },
   "sheets": [
     [
-      "41b1b600-6547-4fd9-ac06-703a8243b2d9",
+      "95988e7f-443e-489d-ac8a-67704400667b",
       ""
     ]
   ],
